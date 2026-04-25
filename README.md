@@ -1,0 +1,2 @@
+# sweets-fixed
+This is a copy of an Infinite Chef mod by PotatoMan5554 called sweets.js that I made to fix a bug in the mod!
