@@ -203,7 +203,7 @@ addIngredient("swedish_fish",{
     brokenShape: "liquid_splat",
     keywords: "fish, candy, swedish"
 });
-addIngredient("lady_finger",{
+editIngredient("lady_finger",{
     reactions: {
         coffee: { set1:"coffee-covered_lady_finger" },
     }
@@ -223,7 +223,7 @@ editIngredient("dough",{
         oil: { set1:"phyllo" },
     }
 });
-addIngredient("biscoff_cookie",{
+editIngredient("biscoff_cookie",{
     reactions: {
         butter: { set1:"cookie_butter" },
         milk: { set1:"cookie_butter"},
